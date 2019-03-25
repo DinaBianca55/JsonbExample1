@@ -1,0 +1,14 @@
+{
+   "myInterestingField" : [
+      {
+          "name": "name1", 
+          "addressPO": "address1", 
+          "stuff":["a", "b", "c"]
+      },
+      {
+          "name": "name2", 
+          "addressPO": "address2", 
+          "stuff":[]
+      }
+    ]
+}
